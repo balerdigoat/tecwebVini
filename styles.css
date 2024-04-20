@@ -1,0 +1,23 @@
+body {
+
+    margin: 0;
+    font-family: Arial,sans-serif;
+}
+.menu-topo a { 
+         background-color: blue;
+         overflow: hidden;     
+
+ }
+ .menu-topo a { 
+    float: left;
+    display: block;
+    color:aliceblue;
+    text-align: center;
+    padding: 14px 16px; 
+    text-decoration: none;
+}
+
+.menu-topo a:hover {
+    background-color: #dddddd;
+        color: black;
+} 
